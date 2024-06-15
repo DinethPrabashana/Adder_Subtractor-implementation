@@ -17,7 +17,7 @@ This project implements a digital circuit that can perform both addition and sub
 ## Circuit Diagram
 
 ### Block Diagram
-![Block Diagram](path_to_block_diagram_image.png)
+![Block Diagram](https://github.com/DinethPrabashana/Adder_Subtractor-implementation/blob/main/Adder%20Subtractor%20implementation/Block_Diagram.png)
 
 
 ## Usage
